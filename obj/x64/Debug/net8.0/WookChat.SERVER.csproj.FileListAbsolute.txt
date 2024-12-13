@@ -1,0 +1,14 @@
+D:\OwnProject\WookChat\WookChat.SERVER\bin\x64\Debug\net8.0\WookChat.SERVER.exe
+D:\OwnProject\WookChat\WookChat.SERVER\bin\x64\Debug\net8.0\WookChat.SERVER.deps.json
+D:\OwnProject\WookChat\WookChat.SERVER\bin\x64\Debug\net8.0\WookChat.SERVER.runtimeconfig.json
+D:\OwnProject\WookChat\WookChat.SERVER\bin\x64\Debug\net8.0\WookChat.SERVER.dll
+D:\OwnProject\WookChat\WookChat.SERVER\bin\x64\Debug\net8.0\WookChat.SERVER.pdb
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.GeneratedMSBuildEditorConfig.editorconfig
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.AssemblyInfoInputs.cache
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.AssemblyInfo.cs
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.csproj.CoreCompileInputs.cache
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.dll
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\refint\WookChat.SERVER.dll
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.pdb
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\WookChat.SERVER.genruntimeconfig.cache
+D:\OwnProject\WookChat\WookChat.SERVER\obj\x64\Debug\net8.0\ref\WookChat.SERVER.dll
